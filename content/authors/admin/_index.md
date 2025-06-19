@@ -164,5 +164,9 @@ awards:
     awarder: datacamp
     icon: datacamp
     summary: |
-      東京大学大学院 教育学研究科 教育心理学コース 修士2年の中島優稀です。専門は教育測定学で，特に認知診断モデルに興味があります。現在はQ行列の推定手法に関する研究をしています。学部時代は数学を専攻しており，特にLamé方程式と呼ばれる微分方程式に関する研究をしていました。修士課程修了後は，中学校・高校の数学科教員として勤務する予定です。
+      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
+
+## About Me
+
+東京大学大学院 教育学研究科 教育心理学コース 修士2年の中島優稀です。専門は教育測定学で，特に認知診断モデルに興味があります。現在はQ行列の推定手法に関する研究をしています。学部時代は数学を専攻しており，特にLamé方程式と呼ばれる微分方程式に関する研究をしていました。修士課程修了後は，中学校・高校の数学科教員として勤務する予定です。
