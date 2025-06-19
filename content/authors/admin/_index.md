@@ -12,7 +12,8 @@ last_name: なかじま
 # Status emoji
 status:
   icon: "🎹"
-avatar: "nonfu.jpg"
+avatar:
+  filename: "nonfu.jpg"
 
 # Is this the primary user of the site?
 superuser: true
