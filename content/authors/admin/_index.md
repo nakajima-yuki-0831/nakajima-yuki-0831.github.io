@@ -48,7 +48,8 @@ education:
     date_start: 2020-04-01
     date_end: 2024-03-31
     summary: |
-      学士論文 _Lamé方程式の解表示とAllen-Cahn方程式への応用_ 指導教官 [宮本安人教授](https://www.ms.u-tokyo.ac.jp/~miyamoto/).
+      学士論文 _Lamé方程式の解表示とAllen-Cahn方程式への応用_  
+      指導教官 [宮本安人教授](https://www.ms.u-tokyo.ac.jp/~miyamoto/)
     button:
       text: 'Read Thesis'
       url: 'https://www.ms.u-tokyo.ac.jp/~miyamoto/'
@@ -57,7 +58,8 @@ education:
     date_start: 2024-04-01
     date_end: 2026-03-31
     summary: |
-      修士論文 _制限付きボルツマンマシンによる多値CDMのQ行列推定手法の提案_ 指導教官 [宇佐美慧准教授](https://usami-lab.com/).
+      修士論文 _制限付きボルツマンマシンによる多値CDMのQ行列推定手法の提案_  
+      指導教官 [宇佐美慧准教授](https://usami-lab.com/)
     button:
       text: 'Read Thesis'
       url: 'https://usami-lab.com/'
