@@ -88,7 +88,7 @@ skills:
     items:
       - name: LaTeX
         description: ''
-        percent: 80
+        percent: 100
         icon: tex
       - name: R
         description: ''
@@ -96,7 +96,7 @@ skills:
         icon: r
       - name: vscode
         description: ''
-        percent: 40
+        percent: 100
         icon: vscode
   - name: Hobbies
     color: '#eeac02'
