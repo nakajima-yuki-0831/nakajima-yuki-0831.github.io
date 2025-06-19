@@ -52,7 +52,7 @@ interests:
 
 education:
   - area: 学士（教養）
-    institution: "東京大学 教養学部"
+    institution: "東京大学 教養学部 統合自然科学科 数理自然科学コース"
     date_start: 2020-04-01
     date_end: 2024-03-31
     summary: |
@@ -61,7 +61,7 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: 修士（教育）
-    institution: "東京大学大学院 教育学研究科"
+    institution: "東京大学大学院 教育学研究科 総合教育科学専攻 教育心理学コース"
     date_start: 2024-04-01
     date_end: 2026-03-31
     summary: |
