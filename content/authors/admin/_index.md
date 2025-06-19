@@ -66,6 +66,9 @@ education:
     date_end: 2026-03-31
     summary: |
       Thesis on _Q-matrix Estimation Method for Sequential CDM by Restricted Boltzmann Machines_. Supervised by [Prof Satoshi USAMI](https://example.com).
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
