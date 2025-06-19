@@ -51,10 +51,10 @@ interests:
   - Educational Measurement
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: 学士（教養）
+    institution: 東京大学 教養学部
+    date_start: 2020年4月1日
+    date_end: 2024年3月31日
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
