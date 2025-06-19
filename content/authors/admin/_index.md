@@ -94,7 +94,7 @@ skills:
         description: ''
         percent: 100
         icon: r
-      - name: vdcode
+      - name: vscode
         description: ''
         percent: 40
         icon: vscode
@@ -116,12 +116,10 @@ skills:
         icon: film
 
 languages:
-  - name: English
+  - name: "日本語"
     percent: 100
-  - name: Chinese
+  - name: English
     percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
