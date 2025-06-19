@@ -48,19 +48,19 @@ education:
     date_start: 2020-04-01
     date_end: 2024-03-31
     summary: |
-      学士論文 _The Solution of Lamé Equation and Application for Allen-Cahn Equation_. Supervised by [Prof Yasuhito MIYAMOTO](https://example.com).
+      学士論文 _Lamé方程式の解表示とAllen-Cahn方程式への応用_ 指導教官 [宮本安人教授](https://www.ms.u-tokyo.ac.jp/~miyamoto/).
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://www.ms.u-tokyo.ac.jp/~miyamoto/'
   - area: 修士（教育）
     institution: "東京大学大学院 教育学研究科 総合教育科学専攻 教育心理学コース"
     date_start: 2024-04-01
     date_end: 2026-03-31
     summary: |
-      修士論文 _Q-matrix Estimation Method for Sequential CDM by Restricted Boltzmann Machines_. Supervised by [Prof Satoshi USAMI](https://example.com).
+      修士論文 _制限付きボルツマンマシンによる多値CDMのQ行列推定手法の提案_ 指導教官 [宇佐美慧准教授](https://usami-lab.com/).
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://usami-lab.com/'
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
