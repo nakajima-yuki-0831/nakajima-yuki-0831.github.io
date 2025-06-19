@@ -88,15 +88,15 @@ skills:
     items:
       - name: LaTeX
         description: ''
-        percent: 100
+        percent: 80
         icon: tex
       - name: R
         description: ''
         percent: 100
         icon: r
-      - name: vscode
+      - name: vdcode
         description: ''
-        percent: 100
+        percent: 40
         icon: vscode
   - name: Hobbies
     color: '#eeac02'
@@ -104,7 +104,7 @@ skills:
     items:
       - name: ピアノ
         description: ''
-        percent: 100
+        percent: 60
         icon: musical-note
       - name: サッカー
         description: ''
@@ -112,7 +112,7 @@ skills:
         icon: bolt
       - name: ゲーム
         description: ''
-        percent: 100
+        percent: 80
         icon: film
 
 languages:
