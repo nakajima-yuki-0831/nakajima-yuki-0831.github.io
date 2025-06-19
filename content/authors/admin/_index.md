@@ -89,7 +89,7 @@ skills:
       - name: LaTeX
         description: ''
         percent: 80
-        icon: tex
+        icon: devicon/tex
       - name: R
         description: ''
         percent: 100
