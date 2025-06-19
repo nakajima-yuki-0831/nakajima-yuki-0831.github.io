@@ -89,15 +89,15 @@ skills:
       - name: LaTeX
         description: ''
         percent: 80
-        icon: devicon/tex
+        icon: tex
       - name: R
         description: ''
         percent: 100
-        icon: devicon/r
+        icon: r
       - name: vscode
         description: ''
         percent: 40
-        icon: devicon/vscode
+        icon: vscode
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
