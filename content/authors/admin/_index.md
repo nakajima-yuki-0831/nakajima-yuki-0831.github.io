@@ -11,7 +11,7 @@ last_name: なかじま
 
 # Status emoji
 status:
-  icon: "⚽️🎹"
+  icon: "🎹"
 
 # Is this the primary user of the site?
 superuser: true
@@ -182,4 +182,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+2020年4月〜：東京大学 教養学部 理科二類
+2022年4月〜：東京大学 教養学部 統合自然科学科
+2024年4月〜：東京大学大学院 教育学研究科 教育心理学コース
