@@ -51,7 +51,7 @@ education:
       学士論文 _Lamé方程式の解表示とAllen-Cahn方程式への応用_ 指導教官 [宮本安人教授](https://www.ms.u-tokyo.ac.jp/~miyamoto/).
     button:
       text: 'Read Thesis'
-      url: 'uploads/soturonn.pdf'
+      url: 'https://nakajima-yuki-0831.github.io/uploads/soturonn.pdf'
   - area: 修士（教育）
     institution: "東京大学大学院 教育学研究科 総合教育科学専攻 教育心理学コース"
     date_start: 2024-04-01
