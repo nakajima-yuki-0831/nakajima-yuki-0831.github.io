@@ -48,7 +48,7 @@ education:
     date_start: 2020-04-01
     date_end: 2024-03-31
     summary: |
-      Thesis on _The Solution of Lamé Equation and Application for Allen-Cahn Equation_. Supervised by [Prof Yasuhito MIYAMOTO](https://example.com).
+      学士論文 _The Solution of Lamé Equation and Application for Allen-Cahn Equation_. Supervised by [Prof Yasuhito MIYAMOTO](https://example.com).
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -57,7 +57,7 @@ education:
     date_start: 2024-04-01
     date_end: 2026-03-31
     summary: |
-      Thesis on _Q-matrix Estimation Method for Sequential CDM by Restricted Boltzmann Machines_. Supervised by [Prof Satoshi USAMI](https://example.com).
+      修士論文 _Q-matrix Estimation Method for Sequential CDM by Restricted Boltzmann Machines_. Supervised by [Prof Satoshi USAMI](https://example.com).
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
