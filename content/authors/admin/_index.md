@@ -1,6 +1,6 @@
 ---
 # Display name
-title: nakajima yuki
+title: 中島 優稀
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
