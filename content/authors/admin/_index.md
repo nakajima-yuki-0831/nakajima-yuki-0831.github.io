@@ -85,6 +85,8 @@ work:
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
+    color: '#eeac02'
+    color_border: '#f0bf23'
     items:
       - name: LaTeX
         description: ''
@@ -93,11 +95,11 @@ skills:
       - name: R
         description: ''
         percent: 100
-        icon: r
+        icon: devicon/r
       - name: vscode
         description: ''
         percent: 40
-        icon: vscode
+        icon: devicon/vscode
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
