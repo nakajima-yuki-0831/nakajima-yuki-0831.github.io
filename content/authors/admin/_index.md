@@ -104,7 +104,7 @@ skills:
     items:
       - name: ピアノ
         description: ''
-        percent: 60
+        percent: 100
         icon: musical-note
       - name: サッカー
         description: ''
@@ -112,7 +112,7 @@ skills:
         icon: bolt
       - name: ゲーム
         description: ''
-        percent: 80
+        percent: 100
         icon: film
 
 languages:
