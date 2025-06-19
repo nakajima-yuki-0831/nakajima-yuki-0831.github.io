@@ -86,18 +86,18 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: LaTeX
         description: ''
         percent: 80
-        icon: code-bracket
-      - name: Data Science
+        icon: tex
+      - name: R
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
+        icon: r
+      - name: vdcode
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: vscode
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -105,15 +105,15 @@ skills:
       - name: ピアノ
         description: ''
         percent: 60
-        icon: music
+        icon: musical-note
       - name: サッカー
         description: ''
         percent: 100
-        icon: soccer-ball
-      - name: Photography
+        icon: bolt
+      - name: ゲーム
         description: ''
         percent: 80
-        icon: camera
+        icon: film
 
 languages:
   - name: English
