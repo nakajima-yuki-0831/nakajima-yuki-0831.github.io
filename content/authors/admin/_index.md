@@ -63,27 +63,23 @@ education:
       url: 'https://example.com'
 work:
   - position: "河合塾数学科個別指導員"
-    company_name: GenCoin
+    company_name: 河合塾
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2020-12-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      主な業務内容:
+      - 高校生に対する数学指導
+  - position: 株式会社Mathmajiインターン
+    company_name: 株式会社Mathmaji
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-04-01
+    date_end: 2025-06-30
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      主な業務内容:
+      - 英語圏向け算数アプリの開発（カリキュラム部門）
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
