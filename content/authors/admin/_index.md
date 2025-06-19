@@ -105,11 +105,11 @@ skills:
       - name: ピアノ
         description: ''
         percent: 60
-        icon: music
+        icon: microphone
       - name: サッカー
         description: ''
         percent: 100
-        icon: soccer
+        icon: futbol
       - name: Photography
         description: ''
         percent: 80
