@@ -62,7 +62,7 @@ education:
       text: '修士論文'
       url: 'https://example.com'
 work:
-  - position: Director of Cloud Infrastructure
+  - position: 河合塾数学科個別指導員
     company_name: GenCoin
     company_url: ''
     company_logo: ''
