@@ -31,20 +31,12 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:yuyuyuki495@gmail.com'
+    url: 'mailto:nakajimayuki0831@g.ecc.u-tokyo.ac.jp'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/socceryuki0831?s=11
   - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.instagram.com/white_4657?igsh=cWUwMG92bHRkMnpj&utm_source=qr
 
 interests:
   - Mathematics
