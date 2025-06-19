@@ -6,12 +6,12 @@ title: 中島 優稀
 name_pronunciation: なかじま ゆうき
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: ゆうき
+last_name: なかじま
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ⚽️🎹
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Master's Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: 東京大学大学院 教育学研究科
+    url: https://www.p.u-tokyo.ac.jp/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:yuyuyuki495@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -47,9 +47,8 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Mathematics
+  - Educational Measurement
 
 education:
   - area: PhD Artificial Intelligence
