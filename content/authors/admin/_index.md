@@ -48,9 +48,9 @@ education:
     date_start: 2020-04-01
     date_end: 2024-03-31
     summary: |
-      学士論文 _Lamé方程式の解表示とAllen-Cahn方程式への応用_ 指導教官 [宮本安人教授](https://www.ms.u-tokyo.ac.jp/~miyamoto/).
+      卒業論文 _Lamé方程式の解表示とAllen-Cahn方程式への応用_ 指導教官 [宮本安人教授](https://www.ms.u-tokyo.ac.jp/~miyamoto/).
     button:
-      text: 'Read Thesis'
+      text: '卒業論文'
       url: 'https://nakajima-yuki-0831.github.io/uploads/soturonn.pdf'
   - area: 修士（教育）
     institution: "東京大学大学院 教育学研究科 総合教育科学専攻 教育心理学コース"
@@ -59,7 +59,7 @@ education:
     summary: |
       修士論文 _制限付きボルツマンマシンによる多値CDMのQ行列推定手法の提案_ 指導教官 [宇佐美慧准教授](https://usami-lab.com/).
     button:
-      text: 'Read Thesis'
+      text: '修士論文'
       url: 'https://example.com'
 work:
   - position: Director of Cloud Infrastructure
