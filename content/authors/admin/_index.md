@@ -52,7 +52,7 @@ interests:
 
 education:
   - area: 学士（教養）
-    institution: Stanford University
+    institution: 東京大学 教養学部
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
