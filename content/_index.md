@@ -35,11 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        現在私は認知診断モデル（Cognitice Diagnostic Models; CDM）に関する研究をしています。CDMは，テストが測定する複数のスキル（アトリビュート）の習得状況で受験者を分類する教育測定モデルです。CDMの運用では，設問とアトリビュートの関係をまとめたQ行列と呼ばれる表を適切に設定する必要がありますが，実際にはテスト設計者の主観に依存することが多いです。このような問題意識に基づき，解答データからQ行列を直接推定する手法を検討しています。
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        また学部時代は，Lamé方程式と呼ばれる常微分方程式の研究をしていました。Lamé方程式は自然数lを含む方程式ですが，lが大きくなるにつれて解表示が非常に複雑になることが知られていました。そこで我々は，l=2，3の場合の解表示を部分分数分解することにより，l=1の場合の解表示に準じた形で表そうとする研究を行いました。
     design:
       columns: '1'
   - block: collection
