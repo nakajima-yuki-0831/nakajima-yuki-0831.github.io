@@ -57,7 +57,7 @@ education:
     date_start: 2024-04-01
     date_end: 2026-03-31
     summary: |
-      修士論文 _制限付きボルツマンマシンによる多値CDMのQ行列推定手法の提案_ 指導教官 [宇佐美慧准教授](https://usami-lab.com/).
+      修士論文 _俺にはCDMしかないんですよ_ 指導教官 [宇佐美慧准教授](https://usami-lab.com/).
     button:
       text: '修士論文'
       url: 'https://example.com'
